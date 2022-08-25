@@ -1,6 +1,6 @@
 - 👋 Olá, Sou @LucasSI
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis with Python and PowerBI
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning Data Analysis and Data Science
 - 📫 How to reach me in my instagram account @lucasdq
 
 <!---
