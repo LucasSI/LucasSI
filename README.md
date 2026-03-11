@@ -1,6 +1,5 @@
 - 👋 Olá, Sou @LucasSI
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Data Analysis and Data Science
 - 📫 How to reach me in my instagram account @lucasdq
 
 <!---
